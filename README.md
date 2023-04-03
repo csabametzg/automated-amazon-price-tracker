@@ -1,2 +1,2 @@
-# automated-amazon-price-tracker
-Get E-mail notification, if the laptop price is less than wishes price
+# Automated Amazon Price Tracker
+Get E-mail Notification, when Price Below Preset Value
